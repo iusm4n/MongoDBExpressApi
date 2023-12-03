@@ -1,0 +1,13 @@
+GET http://localhost:3000/656ca13af8478cffcf32bd53
+
+
+###
+
+POST http://localhost:3000/
+Content-Type: application/json
+{
+  "name": "John Doe",
+  "email": "jhon@gmail.com",
+  "address":"xyz city usa"
+}
+
